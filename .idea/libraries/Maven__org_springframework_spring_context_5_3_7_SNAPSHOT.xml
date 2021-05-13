@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-context:5.3.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.7-SNAPSHOT/spring-context-5.3.7-20210511.195134-70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.7-SNAPSHOT/spring-context-5.3.7-20210511.195134-70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.7-SNAPSHOT/spring-context-5.3.7-20210511.195134-70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
